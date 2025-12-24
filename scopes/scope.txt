@@ -2,6 +2,7 @@
 # One entry per line
 # Lines starting with # are comments
 
+
 # Root domain
 example.com
 
@@ -19,3 +20,7 @@ dev.example.com
 staging.example.com
 
 # Please note that example.com is, as the name says, an EXAMPLE, because of the absence of wordpress, it will not scan anything
+# Extra notes:
+# - Do not include protocols (http/https)
+# - Do not include paths or ports
+# - Wildcards must start with *.
