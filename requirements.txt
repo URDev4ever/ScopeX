@@ -1,0 +1,5 @@
+bs4
+termcolor
+requests
+colorama
+argparse
