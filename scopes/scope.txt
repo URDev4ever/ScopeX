@@ -1,0 +1,21 @@
+# Scopex scope file
+# One entry per line
+# Lines starting with # are comments
+
+# Root domain
+example.com
+
+# All subdomains (wildcard)
+*.example.com
+
+# Specific subdomain
+api.example.com
+
+# Admin panel
+admin.example.com
+
+# Development / staging
+dev.example.com
+staging.example.com
+
+# Please note that example.com is, as the name says, an EXAMPLE, because of the absence of wordpress, it will not scan anything
