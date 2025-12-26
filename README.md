@@ -1,5 +1,9 @@
 <h1 align="center">Scopex</h1>
 <p align="center">
+  🇺🇸 <a href="README.md"><b>English</b></a> |
+  🇪🇸 <a href="README_ES.md">Español</a>
+</p>
+<p align="center">
   <img width="491" height="253" alt="image" src="https://github.com/user-attachments/assets/69e17dbf-0184-4c50-ae17-ff9e40dd2df0" />
 </p>
 <h3 align="center">
