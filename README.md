@@ -163,7 +163,7 @@ python scopex.py --url example.com --scope scope.txt
 ### Scan multiple targets from a file
 
 ```bash
-python scopex.py --list targets.txt --scope scope.txt
+python scopex.py --list targets.txt
 ```
 > This will NOT filter out-of-scope elements.
 ---
