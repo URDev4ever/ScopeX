@@ -7,7 +7,7 @@
   <img width="491" height="253" alt="image" src="https://github.com/user-attachments/assets/69e17dbf-0184-4c50-ae17-ff9e40dd2df0" />
 </p>
 <h3 align="center">
-  Scopex es una herramienta de reconocimiento rápida, basada en terminal, diseñada para analizar objetivos WordPress respetando estrictamente los límites de alcance (*scope*).
+  Scopex es una herramienta de reconocimiento rápida, basada en terminal, diseñada para analizar objetivos WordPress respetando estrictamente los límites de alcance (scope).
   Se enfoca en la visibilidad, claridad y seguridad, ayudando a bug bounty hunters y hackers éticos a comprender la superficie de ataque de WordPress antes de realizar cualquier explotación.
 </h3>
 
@@ -164,7 +164,7 @@ python scopex.py --url example.com --scope scope.txt
 ### Escanear múltiples objetivos desde un archivo
 
 ```bash
-python scopex.py --list targets.txt --scope scope.txt
+python scopex.py --list targets.txt 
 ```
 
 > Esto **NO** filtrará elementos fuera de scope.
