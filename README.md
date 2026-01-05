@@ -111,6 +111,7 @@ ScopeX/
 ├── scopex.py
 ├── requirements.txt
 ├── README.md
+├── README_ES.md
 │
 ├── scopes/
 │   └── scope.txt        # example scope file
