@@ -290,4 +290,14 @@ Scopex te ayuda a:
 
 ---
 
+## ⭐ Contribuir
+
+Las pull requests son bienvenidas si:
+
+* Mejoran la precisión en la detección de WordPress o amplían técnicas de reconocimiento pasivo
+* Mejoran la lógica de validación de scope o reducen falsos positivos / falsos negativos
+* Mantienen la filosofía ligera y no intrusiva de la herramienta (sin explotación, sin escaneo agresivo)
+
+---
+
 Hecho con <3 por URDev.
