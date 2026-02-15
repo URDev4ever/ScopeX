@@ -291,4 +291,14 @@ Scopex helps you:
 * Decide what to test manually
 
 ---
+
+## ⭐ Contributing
+
+Pull requests are welcome if they:
+
+* Improve WordPress detection accuracy or expand passive reconnaissance techniques
+* Enhance scope enforcement logic or reduce false positives / false negatives
+* Maintain the tool’s lightweight, non-intrusive philosophy (no exploitation, no aggressive scanning)
+
+---
 Made with <3 by URDev.
